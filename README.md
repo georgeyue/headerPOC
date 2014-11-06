@@ -1,4 +1,4 @@
-scriptLoadSpeedUp
+headerPOC
 =================
 
-POC for script load speed up.
+POC for executing a node manipulating script without waiting for ``DOMContentLoaded``.
