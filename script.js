@@ -1,0 +1,1 @@
+$('#targetElement').text('Hi, I am some text slapped in via a script');
